@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/joukou/karma-jade2js-preprocessor/issues"
   },
-  "homepage": "https://github.com/joukou/karma-jade2js-preprocessor"
+  "homepage": "https://github.com/joukou/karma-jade2js-preprocessor",
+  "dependencies": {
+    "jade": "*"
+  }
 }
